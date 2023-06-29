@@ -9,3 +9,4 @@ print(animal.rstrip())
 print(animal.find("ch"))
 print(animal.replace("ch", "j"))
 print("ch" in animal)
+s=0
